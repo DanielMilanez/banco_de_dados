@@ -14,3 +14,9 @@ autor pode escrever vários livros, os dados dos autores, são, código e
 nome. Um livro pode abordar muitos assuntos e um assunto pode ser
 abordado por vários livros. Os dados de assunto são, código e
 descrição.
+
+## Solução proposta
+
+<div align="center">
+    <img src="../../images/Atividade-Biblioteca-associado.png" alt="Banner Image" width="700" height="400">
+</div>

@@ -9,3 +9,9 @@ Cada livro da biblioteca pertence a uma categoria. A biblioteca deseja
 manter um cadastro de todas as categorias existentes, com informações
 como: código da categoria e descrição. Uma categoria pode ter vários
 livros associados a ela.
+
+## Solução proposta
+
+<div align="center">
+    <img src="../../images/Atividade-Biblioteca-autor-livro.png" alt="Banner Image" width="700" height="400">
+</div>

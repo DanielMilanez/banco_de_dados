@@ -7,3 +7,9 @@ bebê e o médico que fez seu parto. Para as mães, o berçário também
 deseja manter um controle, guardando informações como: nome,
 endereço, telefone e data de nascimento. Para os médicos, é importante
 saber: CRM, nome, telefone celular e especialidade.
+
+## Solução proposta
+
+<div align="center">
+    <img src="../../images/Atividade-Berçario.png" alt="Banner Image" width="700" height="400">
+</div>

@@ -11,3 +11,9 @@ crédito. Guarda-se igualmente a informação dos pedidos feitos pelos
 clientes. Cada pedido possui um número e guarda-se a data de
 elaboração do pedido. Cada pedido pode envolver de um a vários
 produtos, e para cada produto, indica-se a quantidade deste pedida.
+
+## Solução proposta
+
+<div align="center">
+    <img src="../../images/Atividade-Produtos-e-clientes.png" alt="Banner Image" width="700" height="400">
+</div>

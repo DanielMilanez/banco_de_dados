@@ -9,3 +9,9 @@ quantidade em estoque. Quando um cliente faz uma compra, a mesma é
 
 armazenada, mantendo informação sobre o cliente que fez a compra, a
 data da compra, o valor total e os produtos comprados.
+
+## Solução proposta
+
+<div align="center">
+    <img src="../../images/Atividade-Floricultura.png" alt="Banner Image" width="700" height="400">
+</div>

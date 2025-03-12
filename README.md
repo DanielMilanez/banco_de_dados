@@ -30,7 +30,6 @@ Este repositório visa oferecer uma base sólida para iniciantes, assim como mat
 |Bliblioteca |Registro de empréstimo de livros                                |[Clique](./modelagens/Biblioteca%20e%20associados/Atividade.md)|
 |Berçario    |Registro de operações realizadas                                |[Clique](./modelagens/Berçario/Atividade.md)|
 |Floricultura|Registro de flores vendidas com histórico de vendas             |[Clique](./modelagens/Floricultura/Atividade.md)|
-|Escola      |Registro de turmas em atividades e professores ministrando aulas|[Clique](./modelagens/Escola/Atividade.md)|
 |Bliblioteca |Registro de para armazenar livros                               |[Clique](./modelagens/Biblioteca%20de%20livros%20e%20autores//Atividade.md)|
 |Pedidos     |Registro de vendas de produtos de limpeza                       |[Clique](./modelagens/Pedidos%20de%20produtos//Atividade.md)|
 

@@ -8,3 +8,9 @@ que dos pet’s deseja saber o nome, peso, código de identificação e tipo
 seu único dono, o mesmo vale para o seu tipo, já os clientes podem ser
 cadastrados mesmo que não possuam um pet, os tipos podem ser
 registrados mesmo que não possuam pets atrelados a eles.
+
+## Solução proposta
+
+<div align="center">
+    <img src="../../images/Atividade-Petshop.png" alt="Banner Image" width="700" height="400">
+</div>
